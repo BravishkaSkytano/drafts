@@ -1,4 +1,4 @@
-title: Your awesome title
+title: "Books by Yoela O."
 description:
 baseurl: "/books"
 url: "https://aspiring-writer.github.io"
@@ -41,7 +41,7 @@ head_code: |
 theme: jekyll-theme-persephone
 plugins:
   - jekyll-books
-  - jekyll-feed
+  - jekyll-sitemap
 
 include:
   - _books

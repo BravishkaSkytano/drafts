@@ -6,7 +6,7 @@ gem "jekyll-theme-persephone"
 
 group :jekyll_plugins do
   gem "jekyll-books"
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-sitemap", "~> 0.12"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
