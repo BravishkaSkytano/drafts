@@ -35,13 +35,11 @@ lang:
 head_code: |
   
 
-
 # Build Settings
 theme: jekyll-theme-persephone
 plugins:
   - jekyll-books
   - jekyll-sitemap
-  - jekyll-feed
 
 include:
   - _books
