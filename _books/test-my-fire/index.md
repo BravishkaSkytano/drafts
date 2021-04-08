@@ -1,5 +1,9 @@
-# Test My Fire
-> I started writing this and *Kidnapped and Afraid* on the same day. They are very similiar in genre, however, this one is more of a mystery than a thriller. 
+---
+title: "Test My Fire"
+start: 2020
+img: "/assets/img/tmf.png"
+---
+> I started writing this and *Kidnapped and Afraid* on the same day. They are very similiar in genre, however, this one is more of a mystery than a thriller.
 
 (Her)
 

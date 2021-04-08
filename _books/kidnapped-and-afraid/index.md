@@ -1,4 +1,8 @@
-# Kidnapped and Afraid
+---
+title: "Kidnapped and Afraid"
+start: 2020
+img: "/assets/img/kaa.png"
+---
 > This is a thriller that came to me one day when I was trying to start being serious about my writing. Honestly, I keep getting stuck with this one. Many scenes will just come to me, the difficulty lies in connecting those scenes and adding proper transitions. I do feel like it's an interesting story, one where even I am guessing at the ending.
 
 I’m got kidnapped by a stranger who seems to enjoy feeding off of my fear. He won’t let me go but I’m free to escape just so he can drag me back again.

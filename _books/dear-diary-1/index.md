@@ -1,4 +1,8 @@
-# Dear Diary, Do You Wanna Know A Secret?
+---
+title: "Dear Diary, Do You Wanna Know A Secret?"
+start: 2020
+img: "/assets/img/dddywkas.png"
+---
 > This is hands-down my favorite manuscript right now. It is so fun to write and the words just flow from my head onto my paper. It is a clean romance story and I think it will be a novella (little novel; longer than a short story and the plot and characters are a bit more detailed/developed).
 
 All Sasha wanted to do was finish school, get a job she loved, get married, and start a family. Unfortunately, getting past school seems impossible. Between staying on track with her studies and keeping up with her other activities, graduation couldn’t be farther away. But then the Stone’s show up.
