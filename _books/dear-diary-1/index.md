@@ -1,7 +1,7 @@
 ---
 title: "Dear Diary, Do You Wanna Know A Secret?"
 start: 2020
-img: "/img/dddywkas.jpg"
+img: "/books/img/dddywkas.jpg"
 ---
 
 All Sasha wanted to do was finish school, get a job she loved, get married, and start a family. Unfortunately, getting past school seems impossible. Between staying on track with her studies and keeping up with her other activities, graduation couldn’t be farther away. But then the Stone’s show up.

@@ -1,7 +1,7 @@
 ---
 title: "Test My Fire"
 start: 2020
-img: "/img/tmf.jpg"
+img: "/books/img/tmf.jpg"
 ---
 
 (Her)

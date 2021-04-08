@@ -1,7 +1,7 @@
 ---
 title: "Kidnapped and Afraid"
 start: 2020
-img: "/img/kaa.jpg"
+img: "/books/img/kaa.jpg"
 ---
 
 I’m got kidnapped by a stranger who seems to enjoy feeding off of my fear. He won’t let me go but I’m free to escape just so he can drag me back again.

@@ -1,7 +1,7 @@
 ---
 title: "Past Nightmares. Present Ghosts. Future Demons."
 start: 2021
-img: "/img/pnpgfd.jpg"
+img: "/books/img/pnpgfd.jpg"
 ---
 
 Homicide Detective Jared Clemmings has been working with the Boise Police Department for six years at the top of his class. He grew up on the streets and has connections in nearly every corner. There's no other job he'd rather have and no other place he'd rather live.
