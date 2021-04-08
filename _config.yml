@@ -9,7 +9,6 @@ social:
 
 # Theme Settings
 logo: /books/img/logo.png
-rss: "/feed.xml"
 
 theme_setting:
   slides_count: 5
@@ -34,7 +33,7 @@ lang:
   blog_title: Home
   
 head_code: |
-  <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
+  <link rel="shortcut icon" type="image/icon" href="/favicon.ico"/>
 
 
 # Build Settings
