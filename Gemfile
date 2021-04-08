@@ -7,4 +7,5 @@ gem "jekyll-theme-persephone"
 group :jekyll_plugins do
   gem "jekyll-books"
   gem "jekyll-sitemap"
+  gem "jekyll-feed"
 end
