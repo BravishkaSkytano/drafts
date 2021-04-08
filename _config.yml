@@ -8,7 +8,7 @@ social:
   github: Aspiring-Writer
 
 # Theme Settings
-logo: /assets/logo.svg
+logo: /books/img/logo.svg
 rss: "/feed.xml"
 
 theme_setting:
