@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
 
-gem "jekyll-theme-persephon"
+gem "jekyll-theme-persephone"
 
 group :jekyll_plugins do
   gem "jekyll-books"

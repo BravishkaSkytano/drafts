@@ -38,7 +38,7 @@ head_code: |
 
 
 # Build Settings
-theme: jekyll-theme-persephon
+theme: jekyll-theme-persephone
 plugins:
   - jekyll-books
   - jekyll-feed
