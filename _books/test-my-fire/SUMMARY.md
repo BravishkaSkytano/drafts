@@ -1,1 +1,1 @@
-* [Chapter One](1.md)
+* [1. The Game Begins](1.md)
