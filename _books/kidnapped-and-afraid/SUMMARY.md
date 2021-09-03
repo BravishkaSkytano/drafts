@@ -1,2 +1,2 @@
-* [Chapter One](1.md)
-* [Chapter Two](2.md)
+* [The Stranger](1.md)
+* [Kidnapped By A Psycopath](2.md)
