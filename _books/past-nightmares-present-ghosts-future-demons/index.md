@@ -1,5 +1,5 @@
 ---
-title: "Nightmares—Past, Present, Future."
+title: "Past Nightmares. Present Ghosts. Future Demons."
 start: 2021
 img: "/books/img/pnpgfd.jpg"
 ---
