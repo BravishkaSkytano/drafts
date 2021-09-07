@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, harum provident totam iste iusto, doloribus a sapiente itaque maiores molestiae eveniet, vel pariatur beatae esse cupiditate modi odit soluta veritatis?</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam aperiam, magnam quia voluptas possimus eligendi nobis hic molestias dolores, rerum inventore aspernatur ducimus deleniti vero esse libero laudantium quod veritatis.</p>
+
+<hr>
+<h4 class="uppercase italic dark:text-indigo-500">Kidnapped and Afraid</h4>
+{%- for post in collections.kaa | reverse -%}
+  <a class="dark:text-gray-300" href="{{ post.url | url }}">{{ post.data.title }}</a><span> &#8251; </span>
+{%- endfor -%}
+
+<hr>
+<h4 class="uppercase italic dark:text-indigo-500">Test My Fire</h4>
+{%- for post in collections.tmf | reverse -%}
+  <span> <a class="dark:text-gray-300" href="{{ post.url | url }}">{{ post.data.title }}</a> &#8251;</span>
+{%- endfor -%}
+
+<hr>
+<h4 class="uppercase italic dark:text-indigo-500">dear diary, do you wanna know a secret?</h4>
+{%- for post in collections.dd1 | reverse -%}
+  <span> <a class="dark:text-gray-300" href="{{ post.url | url }}">{{ post.data.title }}</a> &#8251;</span>
+{%- endfor -%}
+
+<hr>
+<h4 class="uppercase italic dark:text-indigo-500">past nightmares. present ghosts. future demons.</h4>
+{%- for post in collections.pnpgfd | reverse -%}
+  <span> <a class="dark:text-indigo-600" href="{{ post.url | url }}">{{ post.data.title }}</a> &#8251;</span>
+{%- endfor -%}
+
+<hr>
+<h4 class="uppercase italic dark:text-indigo-500">court of shadows and fury</h4>
+{%- for post in collections.cofaf | reverse -%}
+  <span> <a class="dark:text-gray-300" href="{{ post.url | url }}">{{ post.data.title }}</a> &#8251;</span>
+{%- endfor -%}

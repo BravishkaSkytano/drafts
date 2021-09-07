@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- https://github.com/joshbuchea/HEAD -->
+    <!-- Recommended --> <meta charset="UTF-8">
+    <meta
+    name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Meta -->
+    <meta name="description" content="{{ metadata.description }}">
+    <meta name="generator" content="11ty"> <!-- Icons -->
+    <!-- https://favicon.io/ --> <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | url }}">
+    <link rel="icon" type="icon" href="{{ '/favicon.ico' | url }}">
+    <link rel="manifest" href="{{ '/site.webmanifest' | url }}">
+    <title>{% if title %}{{ title }} | {{ metadata.title }}{% else %}{{ metadata.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/site.css' | url }}">
+    <script>
+      if (
+        localStorage.theme === 'dark' ||
+        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
+      ) {
+        document.documentElement.classList.add('dark')
+      } else {
+        document.documentElement.classList.remove('dark')
+      }
+    </script>
+  </head>
+  <body class="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
+    <main class="container md:rounded-md px-6 py-16 max-w-screen-sm lg:max-w-screen-md xl:max-w-screen-lg 2xl:max-w-screen-xl mx-auto bg-gray-200 text-gray-800 dark:bg-gray-900 dark:text-gray-200 min-h-screen md:my-7">
+      <button id="switchTheme" class="h-10 w-10 float-right focus:outline-none text-gray-900 dark:text-yellow-300">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+        </svg>
+      </button>
+      <header class="pt-8 pb-20">
+        <h1 class="font-bold text-4xl italic text-center">{{ title or metadata.title }}</h1>
+      </header>
+      <article class="mx-auto dark:text-gray-300 prose prose-sm sm:prose lg:prose-lg xl:prose-xl">
+        {{ content | safe }}
+      </article>
+    </main>
+    <script>
+      document.getElementById('switchTheme').addEventListener('click', function () {
+        let htmlClasses = document.querySelector('html').classList;
+        if (localStorage.theme == 'dark') {
+          htmlClasses.remove('dark');
+          localStorage.removeItem('theme')
+        } else {
+          htmlClasses.add('dark');
+          localStorage.theme = 'dark';
+        }
+      });
+    </script>
+  </body>
+</html>

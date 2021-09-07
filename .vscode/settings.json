@@ -16,5 +16,9 @@
     "Válgr",
     "Vulen",
     "Zingolor"
-  ]
+  ],
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
 }
