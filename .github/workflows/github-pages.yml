@@ -1,7 +1,7 @@
 name: Jekyll Deploy
 on: 
   schedule:
-    - cron: "8 3 * * 6"
+    - cron: "8 3 * * 3,6"
     branches:
       - master
                 
