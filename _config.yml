@@ -1,36 +1,38 @@
-title: "Yoela's Books"
+title: "Prose"
 description:
 baseurl: "/prose"
 url: "https://aspiring-writer.github.io"
 
-author: Yoela Olson
+author: Bravishka Skytano
+
 social:
   github: Aspiring-Writer
 
 # Theme Settings
-logo: /books/img/logo.png
+logo: "/prose/img/icons8-quill-pen-42.png"
 
 theme_setting:
-  slides_count: 5
-  # blog_page: ""
-  about_page: "about.md"
+  # The slides count in the slides layout. Default is 4.
+  slides_count: 7
+  # The ← back URL on the top of your post page. Default is your site's home page.
+  #blog_page: "index.md"
+  # The URL on your name on the bottom of your post and page. Default is your site's home page.
+  about_page: "https://aspiring-writer.github.io/about/"
+  #  The URL of the menu icon(which has three black lines). Will be shown on the slides/book/chapter layouts It won't be shown if blank.
   archive_page: "archive.md"
+  # The nav links on the top right of home/page/post/blog layout. You can set a local page(by setting a layout's path) or and external link ( both title and url are required) here.
   nav_pages:
-    - "about.md"
     -
-      title: "My Blog"
+      title: "Blog"
       url: "https://aspiring-writer.github.io"
-    -
-      title: "Writing Buddies"
-      url: "https://writing-buddies.netlify.app"
 
-code: true
-math: true
+code: false
+math: false
 mermaid: true
 
 lang:
   category_all: All #The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
-  blog_title: Home
+  #blog_title: Home
   
 head_code: |
   
