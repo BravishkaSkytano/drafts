@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main # or master before October 2020
 
 jobs:
   github-pages:
@@ -18,4 +18,4 @@ jobs:
             ${{ runner.os }}-gems-
       - uses: helaili/jekyll-action@2.0.5
         with:
-          token: ${{ secrets.DEPLOY_KEY }}
+          token: ${{ secrets.GITHUB_TOKEN }}
