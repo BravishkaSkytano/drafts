@@ -1,7 +1,7 @@
 ---
 title: "Test My Fire"
 start: 2020
-img: "/prose/img/mask-g326e85ad3_1280.jpg"
+img: "/drafts/img/mask-g326e85ad3_1280.jpg"
 ---
 
 (Her)

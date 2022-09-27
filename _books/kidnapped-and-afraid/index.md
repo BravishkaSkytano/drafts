@@ -1,7 +1,7 @@
 ---
 title: "Kidnapped and Afraid"
 start: 2020
-img: "/prose/img/portrait-gf865dd476_1280.jpg"
+img: "/drafts/img/portrait-gf865dd476_1280.jpg"
 ---
 
 Do you know how to tell when you're about to be kidnapped? When someone who looks kinda off and acts kinda off is eyeing you for no apparent reason.
