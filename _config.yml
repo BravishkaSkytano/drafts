@@ -35,7 +35,7 @@ lang:
   #blog_title: Home
   
 head_code: |
-  <link rel="icon" href="/drafts/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/drafts/favicon.ico">
 
 # Build Settings
 theme: jekyll-theme-persephone
