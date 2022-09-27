@@ -9,7 +9,7 @@ social:
   github: Aspiring-Writer
 
 # Theme Settings
-logo: "/prose/img/icons8-quill-pen-42.png"
+logo: "/drafts/img/icons8-quill-pen-42.png"
 
 theme_setting:
   # The slides count in the slides layout. Default is 4.
