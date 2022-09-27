@@ -35,7 +35,7 @@ lang:
   #blog_title: Home
   
 head_code: |
-  
+  "<link rel='icon' type='image/png' href='/drafts/img/icons8-quill-pen-42.png'>"
 
 # Build Settings
 theme: jekyll-theme-persephone
