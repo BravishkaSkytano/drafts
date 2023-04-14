@@ -1,5 +1,9 @@
 title: "Book Drafts by Bravishka Skytano"
 baseURL: "https://bravishkaskytano.github.io/drafts"
 languageCode: "en-US"
+
 disableKinds: ["taxonomy", "taxonomyTerm"]
+relativeURLs: true
+pluralizelisttitles: false
+
 theme: "library"
