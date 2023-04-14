@@ -1,7 +1,7 @@
 ---
 title: "Test My Fire"
-start: 2020
-img: "/drafts/img/mask-g326e85ad3_1280.jpg"
+weight: 1
+cover: "/images/mask-g326e85ad3_1280.jpg"
 ---
 
 (Her)
