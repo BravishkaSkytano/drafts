@@ -1,5 +1,8 @@
-# V
-
+---
+title: "Fragments"
+weight: 0
+draft: true
+---
 Of all the creatures that existed in the Realms, the fae were one of the more advanced beings for dozens of reasons. Some believed that the fae were one of the first creatures created, and others thought of them as demigods. With their magic and the ability to control the rifts between realms, the fae could be found in nearly every world and controlled the very magic that shaped each reality. No one, except, perhaps, the fae themselves, knew how each world was created, or for what purpose; the exact count of how many even existed was unknown. The study of each world began with classifying its Realm.
 
 There were seven major realms: the Day Realm, the Twilight Realm, the Spirit Realm, the Hell Realm, the Heavenly Realm, the Shadow Realm, and the Nameless Realm. In each of these major realms, there existed several minor realms, often called worlds. The worlds that had at least one sun and experienced periods of days and nights made up the Day Realm. The Twilight Realm was full of worlds that lived in twilight and had what one could consider dying suns. The Spirit Realm, also called the Ghost Realm, housed the restless spirits that had yet to be laid to rest. The next two realms, the Hell Realm and the Heavenly Realms, were collectively referred to as the afterlife. In these worlds, the fallen beings of other realms were given a final resting place for a millennium, after which they faded from existence and were forgotten. The Shadow Realm was made up of the worlds that danced in shadows and wrapped its creatures in the same. The worlds that fit into none of the other realms were placed into the last realm, the Nameless Realm. This realm was considered unstable, and the worlds within it usually didn't exist for long, and the ones that did were largely unknown and mysterious.

@@ -1,5 +1,7 @@
-# Locations
-
+---
+title: "Locations"
+weight: 1
+---
 ## Realms vs Courts
 
 Realms are like universes, each realm has multiple planets that share similar characteristics. Courts are the groups of fae that rule over a specific realm. There may be multiple courts in one realm, but they generally only belong to one realm.

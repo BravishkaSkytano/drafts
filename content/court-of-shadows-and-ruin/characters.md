@@ -1,12 +1,15 @@
-# Characters
-
+---
+title: "Characters"
+weight: 1
+mermaid: true
+---
 ## Major Characters
 
 ### Azura
 
 <!--![Azura](https://cdn.pixabay.com/photo/2019/11/26/19/06/fantasy-4655269_960_720.jpg)-->
 
-```mermaid
+{{< mermaid >}}
 graph TD
   C[Azura]
   R[Antagonist<br> Love interest]
@@ -21,7 +24,8 @@ graph TD
 
   C---R---A---N---O
   C---B---F---G---P---M
-```
+{{< /mermaid >}}
+
 <!--
 At age 439, Azura watched [Vulas Farwynn](#Vulas-Farwynn) murder her family and her entire race. Since that night, she has vowed revenge on the High Lord of the Shadow Court. She plans to make him watch his Court fall apart, just as he had done to her father.
 
@@ -32,7 +36,7 @@ Her first encounter with Vulas Farwynn's son, [Faelynn](#Faelynn-Farwynn), has h
 
 ### Faelynn Farwynn
 
-```mermaid
+{{< mermaid >}}
 graph TD
   C[Faelynn Farwynn]
   R[Protagonist<br> Love interest]
@@ -46,7 +50,7 @@ graph TD
 
   C---R---A---N---O
   C---B---F---G---P
-```
+{{< /mermaid >}}
 
 <!--
 All his life, Faelynn Farwynn has sought one thing, his father's approval. Living under the shadow of his father has been difficult. As the Lord of the Shadow Court, and the High Lord's Firstborn he has a great reputation to uphold. Everyone expects him to be ruthless, like his father, which is saying much since most fae are considered ruthless. The things his father has done have truly given the word "ruthless" a new meaning. Faelynn has never had a problem with cruelty, but the time for the brand of ruthlessness the Shadow Court is known for his past. The real enemies have passed, no one dare threatens the Shadow Court except the petty beings that, like ants, spring up every century. Except for now...
@@ -58,7 +62,7 @@ Faelynn thought he knew everything about being ruthless, but when he hears what 
 
 ### Vulas Farwynn
 
-```mermaid
+{{< mermaid >}}
 graph TD
   C[Vulas Farwynn]
   R[Antagonist]
@@ -72,7 +76,7 @@ graph TD
 
   C---R---A---N---O
   C---B---F---G---P
-```
+{{< /mermaid >}}
 
 <!--
 
