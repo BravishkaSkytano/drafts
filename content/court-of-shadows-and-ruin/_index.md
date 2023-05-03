@@ -1,7 +1,7 @@
 ---
-title: "Court of Shadows and Fury"
+title: "Court of Shadows and Ruin"
 start: 2021
-img: "/drafts/img/fantasy-gd1c0b7c62_1280.jpg"
+cover: "images/fantasy-gd1c0b7c62_1280.jpg"
 ---
 Trust. Treachery. Deception.
 

@@ -1,7 +1,7 @@
 ---
 title: "Test My Fire"
 weight: 1
-cover: "/images/mask-g326e85ad3_1280.jpg"
+cover: "images/mask-g326e85ad3_1280.jpg"
 ---
 
 (Her)
