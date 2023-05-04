@@ -14,18 +14,18 @@ if [[ -z "$1" ]]; then # if user didn't supply parameters
     echo "You must supply parameters, e.g."
     echo "  ./new post TITLE-with-dashes"
     echo "  ./new SECTION SECTION-title page-title"
-else
-    TITLE="$2"
+else TITLE="$2";
 fi
 
-if [[ $1 = "tmf" ]]; then export TYPE="test-my-fire" fi
-if [[ $1 = "cosar" ]]; then export TYPE="court-of-shadows-and-ruin" fi
-if [[ $1 = "pnpgfd" ]]; then export TYPE="past-nightmares-present-ghosts-future-demons" fi
-if [[ $1 = "kaa" ]]; then export TYPE="kidnapped-and-afraid" fi
-if [[ $1 = "dd" ]]; then export TYPE="dear-diary" fi
+if [[ $1 = "tmf" ]]; then export TYPE="test-my-fire"; fi
+if [[ $1 = "cosar" ]]; then export TYPE="court-of-shadows-and-ruin"; fi
+if [[ $1 = "pnpgfd" ]]; then export TYPE="past-nightmares-present-ghosts-future-demons"; fi
+if [[ $1 = "kaa" ]]; then export TYPE="kidnapped-and-afraid"; fi
+if [[ $1 = "dd" ]]; then export TYPE="dear-diary"; fi
+if [[ $1 = "coyote" ]]; then export TYPE="transition-of-a-coyote"; fi
 
 if [[ -n $TYPE ]] && [[ -n $TITLE ]]; then # check if type and title have been set
-    hugo new $TYPE/$TITLE.md
+    hugo new "$TYPE/$TITLE.md"
     # Open file
     read -rp "Open? [y/n]: " reply
     case $reply in
